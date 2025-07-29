@@ -1,3 +1,4 @@
+import React from 'react';
 import { useState } from 'react'
 import { Dialog, DialogPanel } from '@headlessui/react'
 import { Bars3Icon, XMarkIcon } from '@heroicons/react/24/outline'
@@ -21,7 +22,7 @@ export default function Header() {
 
             <img
               alt=""
-              src="/plus-assets/img/logos/mark.svg?color=indigo&shade=500"
+              src="/logo"
               className="h-8 w-auto"
             />
           </a>
