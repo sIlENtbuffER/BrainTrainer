@@ -22,7 +22,7 @@ export default function Header() {
 
             <img
               alt=""
-              src="/logo"
+              src="/logo/logo.png"
               className="h-8 w-auto"
             />
           </a>
@@ -59,7 +59,7 @@ export default function Header() {
 
               <img
                 alt=""
-                src="/plus-assets/img/logos/mark.svg?color=indigo&shade=500"
+                src="/logo/logo.png"
                 className="h-8 w-auto"
               />
             </a>
