@@ -14,6 +14,9 @@ function App() {
       </main>
 
       {/* <Footer /> */}
+        <div className="bg-emerald-500 text-center text-white p-2">
+            If you can see a green bar -- Tailwind is working
+        </div>
     </div>
     );
 }
