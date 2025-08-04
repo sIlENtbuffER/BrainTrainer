@@ -5,7 +5,7 @@ import Header from './components/Header.jsx';
 
 function App() {
     return (
-        <div className="min-h-screen flex flex-col bg-gray-900 text-white">
+        <div className="min-h-screen flex flex-col bg-light-black text-white">
       <Header />
 
       <main className="flex-1 flex flex-col items-center justify-center">
@@ -14,9 +14,6 @@ function App() {
       </main>
 
       {/* <Footer /> */}
-        <div className="bg-emerald-500 text-center text-white p-2">
-            If you can see a green bar -- Tailwind is working
-        </div>
     </div>
     );
 }
